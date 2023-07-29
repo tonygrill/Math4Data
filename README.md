@@ -53,7 +53,7 @@ nos parecen importantes a tener en cuenta. Para que sea de fácil lectura, los t
 Por ello, es imperativo consultar los materiales adicionales propuestos en cada sección.
 Además, te recomendamos fuertemente googlear los temas que te interesen o que necesiten más explicación.
 
-Vamos!
+Vamos!okokok
 
 
 ### Si querés saber más sobre la carrera de Data Science de Henry ingresa a https://www.soyhenry.com/
